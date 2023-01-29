@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firechat/static/css/main.ec6dcf85.css",
+    "main.js": "/firechat/static/js/main.8d457ce8.js",
+    "static/js/787.ef5a6e10.chunk.js": "/firechat/static/js/787.ef5a6e10.chunk.js",
+    "index.html": "/firechat/index.html",
+    "main.ec6dcf85.css.map": "/firechat/static/css/main.ec6dcf85.css.map",
+    "main.8d457ce8.js.map": "/firechat/static/js/main.8d457ce8.js.map",
+    "787.ef5a6e10.chunk.js.map": "/firechat/static/js/787.ef5a6e10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.8d457ce8.js"
+  ]
+}
